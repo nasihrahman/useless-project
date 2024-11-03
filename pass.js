@@ -3,7 +3,7 @@ document.getElementById("copyBtn").addEventListener("click", copyToClipboard);
 
 // Array of funny words, each less than 7 letters
 const funnyWords = [
-    "skibidi", "0000", "1234", "4321", "goofy", "meow", "goof"
+    "skibidi", "0000", "1234", "4321", "goofy", "meow", "goof",'abcd ','admin ','access','1111','22222','33333','44444','55555','66666','77777','AAAA','cat','mydog','pet','name','@@@'
 ];
 
 // Reference to the audio element
