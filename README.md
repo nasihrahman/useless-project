@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# USELESS PASSWORD GENERATOR 🎯
 
 
 ## Basic Details
@@ -11,6 +11,10 @@
 - Team Lead: Nasih Rahman - Toch Institute Of Science And Technology
 - Member 2: Adarsh Jiju David- Toch Institute Of Science And Technology
 - Member 3: Mitul K - Toch Institute Of Science And Technology
+
+
+### Host Website:
+ https://nasihrahman.github.io/useless-project/
 
 ### Project Description
 For generating a password which is utterly useless and very common.
